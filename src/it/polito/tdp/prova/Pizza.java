@@ -4,7 +4,7 @@ public class Pizza {
 	
 	private String nome;
 	private double costoUnitario;
-	
+	private String ingredienti;
 	
 	public Pizza(String nome, double costoUnitario) {
 		super();
